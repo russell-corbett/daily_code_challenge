@@ -7,8 +7,10 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 """
 
 
-def func():
-    pass
+def func(message):
+
+
+    return possibilities
 
 
 if __name__ == "__main__":
